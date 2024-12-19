@@ -91,8 +91,8 @@ var customScripts = {
 }
 $('document').ready(function () {
 	 $.backstretch([
-      "images/pg_1.jpg"
-    , "images/pouls1.jpg"
+      "pg_1.jpg"
+    , "pouls1.jpg"
   ], {duration: 3000, fade: 1250});
 
 	// if ($('.iso').length>0) {
