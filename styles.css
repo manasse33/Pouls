@@ -227,7 +227,7 @@ h2, .h2 {
 	display: inline-block;
 }
 .twitterIcon, .facebookIcon, .linkedInIcon, .pintrestIcon {
-	background: url('../images/social-icons.png') -74px 0px;
+	background: url('..social-icons.png') -74px 0px;
 }
 .facebookIcon {
 	background-position: 10px 0px;
@@ -330,7 +330,7 @@ h2, .h2 {
 	color: #fff;
 }
 #overlay {
-	background: rgba(0, 0, 0, 0.56) url(../images/overlays/01.png) top left repeat;
+	background: rgba(0, 0, 0, 0.56) url(..overlays/01.png) top left repeat;
 	position: fixed;
 	top: 0px;
 	width: 100%;
@@ -1043,7 +1043,7 @@ nav#filter li {
 }
 .contact-parlex {
 	padding-top: 0px;
-	background-image: url('../images/pouls1.jpg');
+	background-image: url('..pouls1.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
